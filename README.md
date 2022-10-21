@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Austin
-- 👀 I’m interested in building a Start Up
+
 - 🌱 I’m currently learning JavaScript and how to build software systems
 - 💞️ I’m looking to collaborate on projects to learn and grow my abilities
 - 📫 How to reach me, connect with me here! I like meeting people virtually
